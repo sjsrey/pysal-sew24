@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/vscode/devcontainers/miniconda:latest
+FROM --platform=linux/amd64 continuumio/miniconda3:23.10.0-1
+
 
 # [Choice] Node.js version: none, lts/*, 16, 14, 12, 10
 ARG NODE_VERSION="none"
