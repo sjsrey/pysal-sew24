@@ -1,8 +1,8 @@
 # workshop-pysal-sew24
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/workshop-pysal-sew24)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/pysal-sew24)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/workshop-pysal-sew24/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-sew24/main?urlpath=lab)
 
 Spatial Analysis and Econometrics with PySAL
 
@@ -34,9 +34,9 @@ Spatial Analysis and Econometrics with PySAL
 
 ## Getting Started
 
-__To get started immediately without installing or downloading anything, click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/workshop-pysal-sew24/main?urlpath=lab)__
+__To get started immediately without installing or downloading anything, click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-sew24/main?urlpath=lab)__
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/workshop-pysal-sew24)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/pysal-sew24)
 
 
 If you are familiar with GitHub, you should clone or fork this GitHub repository to a specific directory. Cloning can be done by:
