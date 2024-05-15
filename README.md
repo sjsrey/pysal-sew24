@@ -42,7 +42,7 @@ __To get started immediately without installing or downloading anything, click [
 If you are familiar with GitHub, you should clone or fork this GitHub repository to a specific directory. Cloning can be done by:
 
 ```bash
-git clone https://github.com/sjsrey/workshop-pysal-sew24.git
+git clone https://github.com/sjsrey/pysal-sew24.git
 ```
 
 If you are not using git, you can grab the workshop materials as a zip file by pointing your browser to (<https://github.com/sjsrey/workshop-pysal-sew24.git>) and clicking on the green _Clone or download_ button in the upper right. Extract the downloaded zip file to a working directory.
